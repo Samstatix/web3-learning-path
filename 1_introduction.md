@@ -153,5 +153,4 @@ Common application areas:
 
 ---
 
-## 📌 Suggested Repository Structure
 
